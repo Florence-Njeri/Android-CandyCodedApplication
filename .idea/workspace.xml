@@ -11,8 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,46 +165,54 @@
       <option name="project" value="LOCAL" />
       <updated>1601025900498</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add a phone intent that get launched on clicking the phone TextView in InfoActivity.java">
+      <created>1601026395866</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601026395866</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add intent to launch the InfoActivity onOptionsItemSelected" />
     <MESSAGE value="add a maps intent that get launched on clicking the address TextView in InfoActivity.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add a maps intent that get launched on clicking the address TextView in InfoActivity.java" />
+    <MESSAGE value="add a phone intent that get launched on clicking the phone TextView in InfoActivity.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add a phone intent that get launched on clicking the phone TextView in InfoActivity.java" />
   </component>
   <component name="WindowStateProjectService">
     <state x="557" y="288" width="486" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601023101578">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="557" y="288" width="486" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1299.741@67.27.1299.741" timestamp="1601023101578" />
-    <state x="146" y="27" width="1131" height="741" key="CommitChangelistDialog2" timestamp="1601025900326">
+    <state x="160" y="27" width="1131" height="741" key="CommitChangelistDialog2" timestamp="1601026395486">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="146" y="27" width="1131" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1601025900326" />
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1601024758789">
+    <state x="160" y="27" width="1131" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1601026395486" />
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1601027027393">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1601024758789" />
-    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1601024758783">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1601027027393" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1601027027392">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1601024758783" />
-    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1601024758783">
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1601027027392" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1601027027392">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1601024758783" />
-    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1601024758785">
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1601027027392" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1601027027393">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1601024758785" />
-    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1601025902544">
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1601027027393" />
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1601026397763">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1601025902544" />
-    <state x="379" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1601025527178">
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1601026397763" />
+    <state x="379" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1601026637885">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="379" y="88" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1601025527177" />
+    <state x="379" y="88" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1601026637885" />
   </component>
 </project>

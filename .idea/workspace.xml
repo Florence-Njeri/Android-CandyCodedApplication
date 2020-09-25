@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,13 +153,29 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="add intent to launch the InfoActivity onOptionsItemSelected">
+      <created>1601024982667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601024982667</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add intent to launch the InfoActivity onOptionsItemSelected" />
+    <option name="LAST_COMMIT_MESSAGE" value="add intent to launch the InfoActivity onOptionsItemSelected" />
   </component>
   <component name="WindowStateProjectService">
     <state x="557" y="288" width="486" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601023101578">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="557" y="288" width="486" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1299.741@67.27.1299.741" timestamp="1601023101578" />
+    <state x="146" y="27" width="1131" height="741" key="CommitChangelistDialog2" timestamp="1601024982289">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="146" y="27" width="1131" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1601024982289" />
     <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1601024758789">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -170,9 +192,13 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1601024758785" />
-    <state x="379" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1601024688641">
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1601024985643">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="379" y="88" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1601024688641" />
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1601024985643" />
+    <state x="379" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1601025527178">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="88" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1601025527177" />
   </component>
 </project>
